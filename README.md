@@ -1,4 +1,4 @@
-# README -- Code The Dream Rails Lesson 6
+# README -- Code The Dream Rails Lesson 3.1
 
 This repository contains the framework for the blog application you will develop as you go through the
 Treehouse videos on Rails development. You should create a git branch called blog and make your changes
