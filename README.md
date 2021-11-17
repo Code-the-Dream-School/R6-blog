@@ -20,7 +20,7 @@ The blog application is modified in the Treehouse videos for Ruby on Rails 5 Bas
 Resources.  When you complete Rails Routes and Resources, push your blog branch to github, create
 a pull request, and submit your work using Squibby.
 
-For assignment 7, you will continue work with this same repository.
+For assignment 3.2, you will continue work with this same repository.
 While the blog branch is active, create a new branch called associations.  This involves
 work to be added to the work in the blog branch.  You will use the same repository,
 but the new associations branch, to complete the work in the video called
