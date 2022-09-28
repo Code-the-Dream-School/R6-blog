@@ -27,5 +27,4 @@ but the new associations branch, to complete the work in the video called
 Active Record Associations in Rails. You are done with it when you have completed that
 last video. The Active Record Associations in Rails video also involves several other Rails applications,
 and there are separate assignments and git repositories for those.  They are the community,
-periodical, and mdb repositories.  You should submit one Squibby entry with links to all four
-pull requests.
+periodical, and mdb repositories.  In submitting your code, include links for all four pull requests.
